@@ -1,0 +1,34 @@
+===========================================
+WHERE TO PUT YOUR CLAUDE API KEY
+===========================================
+
+STEP 1: Create a file named ".env" in the project root directory
+        (same folder as this file, backend/, and frontend/)
+
+STEP 2: Add this line to the .env file:
+
+        ANTHROPIC_API_KEY=sk-ant-api03-YOUR_ACTUAL_KEY_HERE
+
+STEP 3: Replace "YOUR_ACTUAL_KEY_HERE" with your actual API key from:
+        https://console.anthropic.com/
+
+EXAMPLE .env file contents:
+----------------------------
+ANTHROPIC_API_KEY=sk-ant-api03-abc123xyz789...
+API_HOST=localhost
+API_PORT=8000
+FRONTEND_PORT=8501
+----------------------------
+
+IMPORTANT:
+- The .env file should be in: /Users/manavighorpade/Desktop/thinking machine/
+- Do NOT commit the .env file to git (it's already in .gitignore)
+- The backend will automatically load this file when it starts
+
+QUICK COMMAND TO CREATE IT:
+----------------------------
+cd "/Users/manavighorpade/Desktop/thinking machine"
+echo "ANTHROPIC_API_KEY=your_key_here" > .env
+
+Then edit .env with your text editor to add your actual key.
+
