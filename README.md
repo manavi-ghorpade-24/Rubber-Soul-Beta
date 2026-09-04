@@ -89,23 +89,12 @@ The UI will open at `http://localhost:8501`
 
 ### Mode 1: IDEATION
 Don't know what to write about? Start here.
-- Guided topic discovery
-- Angle generation
-- Hook development
-- Evidence gathering
 
 ### Mode 2: DEVELOPMENT
-Have a rough idea? Refine it.
-- Deep Socratic questioning
-- Excavate your revelation
-- Find your costly signal
-- Build from insight
+
 
 ### Mode 3: OPTIMIZATION
 Have a draft? Improve it.
-- Full 215-factor scoring
-- Specific fixes ranked by impact
-- Predicted impression ranges
 
 ## Scoring System
 
