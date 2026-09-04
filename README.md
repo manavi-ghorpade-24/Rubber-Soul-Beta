@@ -5,14 +5,6 @@ AI-Assisted. Human-Souled.
 
 A web application that helps you create viral social media content using the Claude API. Built on 7M+ impressions, 215 scoring factors, and refined trust architecture patterns.
 
-## Features
-
-- **Three Modes**: Ideation, Development, and Optimization
-- **Multi-Platform Support**: LinkedIn, X/Twitter, Medium, Blog, Video Scripts
-- **215-Factor Scoring**: 16 craft dimensions + 14 trust patterns
-- **Socratic Inquiry**: Deep questioning to excavate your best ideas
-- **Predictive Analytics**: Impression forecasting based on content quality
-
 ## Project Structure
 
 ```
@@ -150,16 +142,6 @@ Have a draft? Improve it.
 12. Metacognitive Interrupt (2 pts)
 13. Agency Closing (5 pts)
 14. Meta-Commentary (3 pts)
-
-## Predictive Ranges
-
-| Score | Tier | Predicted Impressions |
-|-------|------|----------------------|
-| 185+ | MEGA-VIRAL | 500K+ |
-| 155-184 | VIRAL | 150K – 500K |
-| 125-154 | STRONG | 50K – 150K |
-| 100-124 | SOLID | 20K – 50K |
-| Below 100 | NEEDS WORK | Under 20K |
 
 ## API Endpoints
 
